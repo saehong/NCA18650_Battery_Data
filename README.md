@@ -25,15 +25,15 @@ This is a public repository where the aging experimental data of NCA 18650 cell 
 
 
 ## Data Description
-In each .mat file compries of time,current,voltage, and temperature measurement.
+Each .mat file compries of time,current,voltage, and temperature measurement. The repeated driving cycle profiles are labeled as Cyclic Aging Test (CAT) while applying low current discharge current for measuring capacity is labeled as Reference Performance Test (RPT). 
 
 | Number    | Description   | Type    | Link  |
 | :---      |    :----      |   :---  | :--- |
-| 1.        | 0.5C Chg. Aging Case | CAT | [Link](https://saehong.github.io)   |
-| 2.        | 0.5C Chg. Aging Case | RPT | [Link](https://saehong.github.io)   |
-| 3.        | 1C Chg. Aging Case | CAT | [Link](https://saehong.github.io)   |
-| 4.        | 1C Chg. Aging Case | RPT | [Link](https://saehong.github.io)   |
-| 5.        | 2C Chg. Aging Case | CAT | [Link](https://saehong.github.io)   |
-| 6.        | 2C Chg. Aging Case | RPT | [Link](https://saehong.github.io)   |
+| 1.        | 0.5C Chg. Aging Case | CAT | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/05C_chg_case/CAT)   |
+| 2.        | 0.5C Chg. Aging Case | RPT | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/05C_chg_case/RPT)   |
+| 3.        | 1C Chg. Aging Case | CAT | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/1C_chg_case/CAT)   |
+| 4.        | 1C Chg. Aging Case | RPT | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/1C_chg_case/RPT)   |
+| 5.        | 2C Chg. Aging Case | CAT | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/2C_chg_case/CAT)   |
+| 6.        | 2C Chg. Aging Case | RPT | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/2C_chg_case/RPT)   |
 
 
