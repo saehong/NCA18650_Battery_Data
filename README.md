@@ -38,11 +38,11 @@ Each .mat file compries of time, current, voltage, and temperature measurements.
 
 
 ## Validation Profiles
-Besides the aging experiments, we perform validation experiments (VE) where different driving cycles are applied to the fresh cell and aged cells. This data can be used for validation process in parameter identification work.
+Besides the aging experiments, we perform validation experiments (VE) where 4 different driving cycles are applied to the fresh cell and aged cells. This data can be used for validation process in parameter identification work.
 
 | Number    | Description   | Type    | Link  |
 | :---      |    :----      |   :---  | :--- |
 | 1.        | Fresh Cell | VE | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/Validation/Fresh)   |
 | 2.        | 0.5C Chg. Aged Case | VE | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/Validation/Aged_05C)   |
 | 3.        | 1C Chg. Aged Case | VE | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/Validation/Aged_1C)   |
-| 5.        | 2C Chg. Aged Case | VE | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/Validation/Aged_2C)   |
+| 4.        | 2C Chg. Aged Case | VE | [Link](https://github.com/saehong/NCA18650_Battery_Data/tree/main/Validation/Aged_2C)   |
