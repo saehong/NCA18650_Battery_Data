@@ -1,9 +1,13 @@
 # NCA 18650 Battery Aging Data Repository
 
-This is a public repository where the aging experimental data of NCA 18650 cell is saved. 
-Aging data for NCA 18650 cell.
+This is a public repository where the aging experimental data of NCA 18650 cell is stored. 
 
-## Experimental Procedure for cycling aging test (CAT) and reference performance test (RPT)
+
+# Experimental Procedure
+
+* Apply driving cycles repeatedly
+* Perform reference performance test 
+
 
 <!--
 <object data="https://github.com/saehong/NCA18650_Battery_Data/Images/ExpTest_Diagram.pdf" type="application/pdf" width="700px" height="700px">
@@ -14,9 +18,11 @@ Aging data for NCA 18650 cell.
 -->
 
 <p align="center">
-  <img src="https://saehong.github.io/files/ExpTest_Diagram.PNG" width="350" title="hover text">
+  <img src="https://saehong.github.io/files/ExpTest_Diagram.PNG" width="700" title="Experimental Procedure">
 </p>
 
+
+# Data Description
 
 | Day         | Topic       | Speaker | Pre-recorded Lecture | Slides / Notes | Real-time Lecture Recordings |
 | :---        |    :----    |   :---  | :---: | :---: | ----- |
