@@ -14,7 +14,7 @@ Aging data for NCA 18650 cell.
 -->
 
 <p align="center">
-  <img src="https://github.com/saehong/NCA18650_Battery_Data/tree/main/Images/ExpTest_Diagram.PNG" width="350" title="hover text">
+  <img src="https://saehong.github.io/files/ExpTest_Diagram.PNG" width="350" title="hover text">
 </p>
 
 
