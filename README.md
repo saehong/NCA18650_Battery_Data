@@ -25,7 +25,7 @@ This is a public repository where the aging experimental data of NCA 18650 cell 
 
 
 ## Data Description
-Each .mat file compries of time,current,voltage, and temperature measurement. The repeated driving cycle profiles are labeled as Cyclic Aging Test (CAT) while applying low current discharge current for measuring capacity is labeled as Reference Performance Test (RPT). 
+Each .mat file compries of time, current, voltage, and temperature measurements. The repeated driving cycle profiles are labeled as Cyclic Aging Test (CAT) type while applying low current discharge current for measuring capacity is labeled as Reference Performance Test (RPT). 
 
 | Number    | Description   | Type    | Link  |
 | :---      |    :----      |   :---  | :--- |
